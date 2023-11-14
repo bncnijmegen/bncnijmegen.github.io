@@ -1,3 +1,8 @@
+---
+Title: BNCNijmegen
+Description: Biofeedback & Neurofeedback Community Nijmegen
+---
+
 <p align="center">
   <img src="bncnijmegen_logo.png" />
 </p>
