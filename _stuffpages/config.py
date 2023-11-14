@@ -109,4 +109,3 @@ extras_configs = {
          'subscript': False
     }
 }
-}
