@@ -4,6 +4,7 @@ from datetime import date
 
 import pymdownx.emoji
 
+YEAR = date.today().year
 
 # HTML output directory
 # Takes absolute path or relative to this file
