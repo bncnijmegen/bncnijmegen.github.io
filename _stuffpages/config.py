@@ -24,7 +24,7 @@ defaults = {
     "date":         "",
     "copy_year":    f"2023-{YEAR}" if YEAR > 2023 else f"{YEAR}",
     "style":        os.path.abspath("styles/default.css"),
-    "settings":     "",
+    "settings":     "nonav, noheader",
     "favicon":      "favicon.ico"
 }
 
