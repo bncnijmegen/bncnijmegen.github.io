@@ -4,7 +4,7 @@ Description: Biofeedback & Neurofeedback Community Nijmegen
 ---
 
 <p align="center">
-  <img src="bncnijmegen_logo.png" />
+  <img src="bncnijmegen_logo.jpg" width="500"/>
 </p>
 
 The _Biofeedback & Neurofeedback Community Nijmegen (BNCNijmegen)_ is an initiative to bring together Bio- and Neurofeedback researchers across the Radboud campus
