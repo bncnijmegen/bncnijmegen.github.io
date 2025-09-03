@@ -1,10 +1,11 @@
 ---
 Title: Biofeedback & Neurofeedback Community Nijmegen Kick-Off Meeting
-Description: 12 September 2025 at Huize Heyendael
+Description: 12 September 2025 10:00-12:00 at Huize Heyendael
 ---
 
 ## About
 Are you interested in Biofeedback and Neurofeedback? Do you want to connect with researchers and experts in this exciting field?
+The Biofeedback & Neurofeedback Community Nijmegen (BNCNijmegen) invites you to our first meeting!
 Whether you are currently using these methods, considering them for the future, or simply curious about the
 existing research and expertise on campus, this meeting is for you! Join us to learn more, share ideas, and help
 shape the future of Biofeedback and Neurofeedback research in Nijmegen.
@@ -18,22 +19,22 @@ We look forward to seeing you there!
 
 ## Programme
 
-10:00 - 10:10
+10:00-10:10
 :   Welcome and introduction
 
-10:10 - 10:35
-:   "Preparing the Heart for Duty: Virtual Reality Biofeedback in an Arousing Action Game to Improve Voluntary Heart-Rate Variability Control and Performance under Stress - _Floris Klumpers & Karin Roelofs (BSI, DCCN)_
+10:10-10:35
+:   _"Preparing the Heart for Duty: Virtual Reality Biofeedback in an Arousing Action Game to Improve Voluntary Heart-Rate Variability Control and Performance under Stress_ - Floris Klumpers & Karin Roelofs (BSI, DCCN)
 
-10:35 - 11:00
+10:35-11:00
 :   _"BCI-based Language Rehabilitation Using Neurofeedback"_ - Michael Tangermann (DCC)
 
-11:00 - 11:20
+11:00-11:20
 :   _"Building Resilience to Real-Life Stressors through Ecological Momentary Neuromodulation of Large-Scale Brain Networks"_ - Florian Krause (DCCN, DCMN)
 
-11:20 - 11:30
+11:20-11:30
 :   _"Advanced Neural Control to Restore Brain Function - Towards a Radboud-UM Neurocontrol Center"_ - Erno Hermans (DCCN, DCMN)
 
-11:30 - 12:00
+11:30-12:00
 :   Discussion on initiative direction, areas for potential collaboration, and focus for future meetings
 
 12:00
