@@ -52,7 +52,7 @@ html_nav = [
 html_header = [
     '<h1>$title</h1>',
     '<p>$description</p>',
-    '<a href="https://bncnijmegen.github.io"><img src=$logo alt="BNCNijmegen logo" /></a>',
+    '<a href="https://bncnijmegen.github.io"><img src=$logo alt="BNCNijmegen logo" width=500/></a>',
 ]
 
 # HTML Footer
