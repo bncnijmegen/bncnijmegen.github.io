@@ -22,20 +22,16 @@ We look forward to seeing you there!
 :   Welcome and introduction
 
 10:10 - 10:35
-:   "Preparing the Heart for Duty: Virtual Reality Biofeedback in an Arousing Action Game to Improve Voluntary Heart-Rate Variability Control and Performance under Stress"  
-    _Floris Klumpers & Karin Roelofs (BSI, DCCN)_
+:   "Preparing the Heart for Duty: Virtual Reality Biofeedback in an Arousing Action Game to Improve Voluntary Heart-Rate Variability Control and Performance under Stress - _Floris Klumpers & Karin Roelofs (BSI, DCCN)_
 
 10:35 - 11:00
-:   "BCI-based Language Rehabilitation Using Neurofeedback"  
-    _Michael Tangermann (DCC)_
+:   _"BCI-based Language Rehabilitation Using Neurofeedback"_ - Michael Tangermann (DCC)
 
 11:00 - 11:20
-:   "Building Resilience to Real-Life Stressors through Ecological Momentary Neuromodulation of Large-Scale Brain Networks"  
-    _Florian Krause (DCCN, DCMN)_
+:   _"Building Resilience to Real-Life Stressors through Ecological Momentary Neuromodulation of Large-Scale Brain Networks"_ - Florian Krause (DCCN, DCMN)
 
 11:20 - 11:30
-:   "Advanced Neural Control to Restore Brain Function - Towards a Radboud-UM Neurocontrol Center"  
-    _Erno Hermans (DCCN, DCMN)_
+:   _"Advanced Neural Control to Restore Brain Function - Towards a Radboud-UM Neurocontrol Center"_ - Erno Hermans (DCCN, DCMN)
 
 11:30 - 12:00
 :   Discussion on initiative direction, areas for potential collaboration, and focus for future meetings
