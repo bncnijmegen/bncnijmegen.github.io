@@ -15,6 +15,6 @@ by providing a platform for knowledge exchange and collaboration, aimed at makin
 
 For more information, please contact florian.krause@donders.ru.nl.
 
-**Highlights:**
+<br>
 
 [!PAGES]
