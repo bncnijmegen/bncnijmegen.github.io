@@ -25,7 +25,8 @@ defaults = {
     "copy_year":    f"2023-{YEAR}" if YEAR > 2023 else f"{YEAR}",
     "style":        os.path.abspath("styles/default.css"),
     "settings":     "",
-    "favicon":      "favicon.ico"
+    "favicon":      "favicon.ico",
+    "logo":         os.path.abspath("../bncnijmegen_logo.jpg")
 }
 
 # HTML Head
@@ -51,6 +52,7 @@ html_nav = [
 html_header = [
     '<h1>$title</h1>',
     '<p>$description</p>',
+    '<a href="https://bncnijmegen.github.io"><img src=$logo alt="BNCNijmegen logo" /></a>',
 ]
 
 # HTML Footer
