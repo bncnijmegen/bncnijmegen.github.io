@@ -1,6 +1,7 @@
 ---
 Title: BNCNijmegen Meeting 2025-10-09
 Description: 9 October 2025 12:00-15:00 at Oval Office, Trigon
+Date: 2025-10-09
 ---
 
 ## About
@@ -25,7 +26,7 @@ We look forward to seeing you there!
 :   _"Trauma & Control: Self-Regulation of Brain Networks in PTSD (TraumaCtrl)"_ - **Floor Kersten** (DCCN, BSI)
 
 14:00-14:45
-:   _TBA_ - **Man Yang** (DCN)
+:   _“Investigating Self-Introspection and Machine Learning for BCI Applications”_ - **Man Yang** (DCN)
 
 14:45-15:00
 :   AOB
