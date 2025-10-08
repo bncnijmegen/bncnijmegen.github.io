@@ -1,6 +1,7 @@
 ---
 Title: BNCNijmegen Kick-Off Meeting
 Description: 12 September 2025 10:00-12:00 at Huize Heyendael
+Date: 2025-09-12
 ---
 
 ## About
