@@ -17,4 +17,4 @@ For more information, please contact florian.krause@donders.ru.nl.
 
 <br>
 
-[!PAGES date]
+[!PAGES Date]
