@@ -1,7 +1,7 @@
 ---
 Title: BNCNijmegen
 Description: Biofeedback & Neurofeedback Community Nijmegen
-Settings: nonav, noheader, nofooter
+Settings: nonav, noheader
 ---
 
 <p align="center">
