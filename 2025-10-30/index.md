@@ -26,7 +26,7 @@ We look forward to seeing you there!
 :   _"Designing Bio- & Neurofeedback Studies_ - **Florian Krause** (DCCN, DCMN)
 
 13:45-14:45
-:   Plenary discussion on _Task Design_, _Control Conditions_, _Participant Instructions_  
+:   Focused discussion on _Task Design_, _Control Conditions_, _Participant Instructions_  
 
 14:45-15:00
 :   AOB
