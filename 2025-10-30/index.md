@@ -1,5 +1,5 @@
 ---
-Title: BNCNijmegen Meeting 2025-10-09
+Title: BNCNijmegen Meeting 2025-10-30
 Description: 30 October 2025 12:00-15:00 at Oval Office, Trigon
 Date: 2025-10-30
 ---
