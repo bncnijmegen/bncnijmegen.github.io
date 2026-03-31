@@ -16,10 +16,13 @@ We look forward to seeing you there!
 
 ## Programme
 
-12:15-13:00
-:   Welcome and updates, followed by free lunch
+12:00-12:45
+:   Free lunch
 
-13:00 - 13:05
+12:45-13:00
+:   Welcome and BNCNijmegen updates
+
+13:00-13:05
 :   Theme 4 announcements
 
 13:05-13:45
