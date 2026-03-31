@@ -27,7 +27,7 @@ We look forward to seeing you there!
 
 13:05-13:45
 :   Guest Talk by **Dr. Michael Luehrs**, Brain Innovation B.V. / Maastricht University on
-    *"Extracting brain signal in (close-to) real-time using fMRI and fNIRS"*
+    *"Measuring brain activity in (close-to) real-time using fMRI and fNIRS"*
 
 13:45-15:00
 :   Digital posters, live demos and power pitches on BCI, Neuroprostethics and Bio-/Neurofeedback
