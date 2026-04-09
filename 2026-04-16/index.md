@@ -7,6 +7,8 @@ Date: 2026-04-16
 ## About
 The _Biofeedback & Neurofeedback Community Nijmegen (BNCNijmegen)_ invites you to our joint meeting together with Donders Theme 4!
 
+**Let's discover synergies between _BNCNijmegen_ and the _DI Natural Computing and Neurotechnology_**.
+
 ## Registration
 The meeting is _free_ (including lunch!) and _open for everyone_, from students to PIs, but we would like to ask you to register if you intend to join:
 
@@ -26,7 +28,7 @@ We look forward to seeing you there!
 :   Theme 4 announcements
 
 13:05-13:45
-:   Guest Talk by **Dr. Michael Luehrs**, Brain Innovation B.V. / Maastricht University on
+:   **Guest Talk by Dr. Michael Luehrs**, Brain Innovation B.V. / Maastricht University on
     *"Measuring brain activity in (close-to) real-time using fMRI and fNIRS"*
 
 13:45-15:00
