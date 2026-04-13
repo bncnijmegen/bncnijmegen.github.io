@@ -1,6 +1,6 @@
 ---
 Title: BNCNijmegen & Donders Theme 4 Meeting 2026-04-16
-Description: 16 April 2026 12:00-15:00 at Trigon (room TBA)
+Description: 16 April 2026 12:00-15:00 at Cajal, Trigon
 Date: 2026-04-16
 ---
 
