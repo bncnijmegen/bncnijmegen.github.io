@@ -46,6 +46,6 @@ For more information, please contact florian.krause@donders.ru.nl.
 
 <br>
 
-<h3>Meetings</h3>
+<h3>Latest Activities</h3>
 
 [!PAGES Date]
