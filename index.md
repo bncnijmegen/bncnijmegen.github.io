@@ -44,6 +44,8 @@ by providing a platform for knowledge exchange and collaboration, aimed at makin
 
 For more information, please contact florian.krause@donders.ru.nl.
 
+<br>
+
 <h3>Meetings</h3>
 
 [!PAGES Date]
