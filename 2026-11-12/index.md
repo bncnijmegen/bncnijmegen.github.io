@@ -29,7 +29,6 @@ The meeting is _free_ (including lunch!) and _open for everyone_, from students 
 We look forward to seeing you there!
 
 ## Programme
-
 10:00-10:15
 :   Welcome and BNCNijmegen updates
 
