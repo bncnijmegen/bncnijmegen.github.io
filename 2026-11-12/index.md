@@ -7,7 +7,7 @@ Date: 2026-11-12
 ## About
 The _Biofeedback & Neurofeedback Community Nijmegen (BNCNijmegen)_ invites you to our next meeting!
 
-**Computational modelling of bio- and neurofeedback learning**
+**Computational modelling of bio- and neurofeedback learning**  
 Bio- and neurofeedback learning are typically conceptualized as forms of reinforcement learning.
 Despite the centrality of this assumption, empirical evidence is lacking,
 highlighting the need for computational approaches to formally characterize how feedback
