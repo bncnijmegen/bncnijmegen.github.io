@@ -29,18 +29,18 @@ The meeting is _free_ (including lunch!) and _open for everyone_, from students 
 We look forward to seeing you there!
 
 ## Programme
-10:00-10:15
+10:00-10:10
 :   Welcome and BNCNijmegen updates
 
-10:15-10:45
+10:10-10:50
 :   **Dongni Yan**, guest speaker from Maastricht University,
     on *capturing learning dynamics in fMRI neurofeedback*
 
-10:45-11:15
+10:50-11:30
 :   **Jonathan Posthuma**, BSI,
     on *characterizing learning in heart rate variability biofeedback*
 
-11:15-12:00
+11:30-12:00
 :   Plenary discussion
 
 12:00-13:00
