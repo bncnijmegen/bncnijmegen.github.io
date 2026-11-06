@@ -30,6 +30,8 @@ The meeting is _free_ (including lunch!) and _open for everyone_, from students 
 
 We look forward to seeing you there!
 
+*(Note: While we encourage physical attendance, for this meeting there is also an option to [join online](https://teams.microsoft.com/meet/31914271722786?p=u4N5YrBjyWc8BlGsbR).)*
+
 ## Programme
 10:00-10:10
 :   Welcome and BNCNijmegen updates
